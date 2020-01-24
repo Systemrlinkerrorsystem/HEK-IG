@@ -13,7 +13,7 @@ $ pkg install openssh -y
 $ pkg install git
 $ git clone https://github.com/TeamHackerCyberArmyIndonesia/HEK-IG.git
 $ cd HEK-IG
-$ python2 instagram.py
+$ python2 dog.py
 ```
 
 
